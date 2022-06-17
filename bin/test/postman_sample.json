@@ -1,0 +1,10 @@
+{
+	"info": {
+		"_postman_id": "some_uuid",
+		"name": "info_name",
+		"schma": "info_schema",
+		"_exporter_id": "info_expo_id" 
+	}
+
+
+}
